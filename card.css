@@ -1,0 +1,29 @@
+.container{
+    height:250px;
+    width:400px ;
+    background-color:antiquewhite;
+    border-radius: 3px;
+  }
+  body{
+    background-color: greenyellow;
+  }
+ .bottom-layer{
+ display: inline-block;
+    width: 50%;
+    height: 100%;
+
+  }
+  .card{
+    height: 80px;
+    width: 100%;
+    border-bottom: 1px solid;
+    border-color: black;
+   } 
+   .bg-green{
+    background-color:rgb(4 120 87)	;
+
+   }
+   .bg-red{
+    background-color:rgb(190 18 60)	;
+   }
+  
